@@ -1,3 +1,3 @@
 # AUDIO-CLASSIFICATION
 Audio binary classification with TensorFlow
-- Read the Paper for more details
+- Read the Report for more details
